@@ -37,7 +37,7 @@ h1, h2, h3{
   position: absolute;
   width: 100%;
   height: 52%;
-  top: 853px;
+  top: 680px;
 
 }
 #bark > div{
@@ -51,7 +51,7 @@ h1, h2, h3{
   flex-direction: row;
   position: absolute;
   height: 397px;
-  bottom: -882px;
+  bottom: -713px;
 }
 #ape > div {
   display: flex;
@@ -64,6 +64,4 @@ h1, h2, h3{
 }
 img{
   display: block;
-  height: 397px;
-  width: 600px;
 }
