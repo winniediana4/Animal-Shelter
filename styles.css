@@ -63,6 +63,7 @@ h1, h2, h3{
   color: yellowgreen;
 }
 img{
+  display: block;
   height: 397px;
   width: 600px;
 }
